@@ -7,11 +7,6 @@ Cub3D is a 3D game engine project developed as part of the 42 School curriculum.
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Controls](#controls)
-- [Screenshots](#screenshots)
-- [Resources](#resources)
-- [License](#license)
 
 ## Overview
 
